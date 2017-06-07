@@ -1,0 +1,4 @@
+module CBtls [system] {
+    header "btls.h"
+    link "btls"
+}
